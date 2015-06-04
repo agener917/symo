@@ -1,2 +1,2 @@
 # symo
-simple stock symbol monitorying
+simple stock symbol monitor
